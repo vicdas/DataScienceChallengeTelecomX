@@ -10,8 +10,17 @@ Tu desafío será recopilar, procesar y analizar los datos, utilizando Python y 
 
 ## 📌 1. Extracción.
 
+✅ Importar y manipular datos desde una API de manera eficiente.
+
 ## 🔧 2. Transformación.
+
+✅ Aplicar los conceptos de ETL (Extracción, Transformación y Carga) en la preparación de los datos.
 
 ## 📊 3. Carga y Análisis.
 
+✅ Crear visualizaciones estratégicas para identificar patrones y tendencias.
+✅ Realizar un Análisis Exploratorio de Datos (EDA).
+
 ## 📄 4. Informe final.
+
+✅ Generar un informe con insights relevantes.
